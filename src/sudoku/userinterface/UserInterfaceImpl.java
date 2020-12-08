@@ -265,6 +265,6 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View,
         );
     }
 }
-https://youtu.be/qH9mWpYMtYU?t=2735
+
 
 
